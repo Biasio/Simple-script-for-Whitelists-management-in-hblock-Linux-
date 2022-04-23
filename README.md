@@ -18,4 +18,4 @@ You can add also custom entries that are not online (I include reddit.com and gi
 
 # If you have any suggestions let me know!
 
-Disclaimer: I assume no responsibility for what might go wrong with using my script. I'm not the author of any of the lists linked to this script and so not responsible for any security risk associated with those.
+Disclaimer: This software is provided as is, witout any kind of warranty. I'm not the author of any of the lists linked to this script and so not responsible for any security risk associated with those.
