@@ -8,7 +8,7 @@ I assume the hosts list for the domains to be blocked are located in /etc/hblock
 # INSTALLATION
 Simply download the script and don't forget to make it executable with sudo chmod +x <PATH_TO_Update_hosts.sh>.
 
-If you want to use also the sources provided as an example here, you can download it and move it to /etc/hblock/ or execute this command: sudo wget --output-document=/etc/hblock/soures.list https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt 
+If you want to use also the sources provided as an example here, you can download it and move it to /etc/hblock/ or execute this command: sudo wget --output-document=/etc/hblock/soures.list https://raw.githubusercontent.com/Biasio/Simple-script-for-Whitelists-management-in-hblock-Linux-/main/sources.list
 
 # HOW TO USE 
 You can execute the script manually, but my suggestion is to add it to crontab, to be executed automatically for example once a week.
@@ -18,4 +18,4 @@ You can add also custom entries that are not online (I include reddit.com and gi
 
 # If you have any suggestions let me know!
 
-Disclaimer: I assume no responsibility for what might went wrong. I'm not the author of any of the lists linked to this script and so not responsible for any security risk associated with those.
+Disclaimer: I assume no responsibility for what might go wrong with using my script. I'm not the author of any of the lists linked to this script and so not responsible for any security risk associated with those.
